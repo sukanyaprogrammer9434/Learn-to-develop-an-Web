@@ -1,0 +1,25 @@
+.enroll{
+font-size:1.5em;
+color:gold;
+}
+.Gold{
+color:gold;
+font-size:2em;
+}
+.headball{
+padding-bottom:1em;
+}
+.submit{
+color:white;
+background-color:#FF4500 ;
+border-radius:80px;
+padding:13px 50px 13px 42px;
+text-decoration:none;
+font-size:0.7em;
+float:right;
+margin-right:40em;
+}
+html{
+background-color:black;
+color:darkmagenta;
+}
